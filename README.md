@@ -1,2 +1,2 @@
-# Picture
-blog 图床
+# hexo images
+博客图床
